@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/KeithLo/Desktop/ucdsolarcar/C:\\Users\\ck\\AndroidStudioProjects\\ucdsolarcar\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/KeithLo/Desktop/ucdsolarcar/C:\\Users\\ck\\AndroidStudioProjects\\ucdsolarcar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/KeithLo/Desktop/ucdsolarcar/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/KeithLo/Desktop/ucdsolarcar/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/KeithLo/Desktop/ucdsolarcar/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/KeithLo/Desktop/ucdsolarcar/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/KeithLo/Desktop/ucdsolarcar/C:\\Users\\ck\\AndroidStudioProjects\\ucdsolarcar\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/KeithLo/Desktop/ucdsolarcar/C:\\Users\\ck\\AndroidStudioProjects\\ucdsolarcar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

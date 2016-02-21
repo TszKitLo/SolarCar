@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/KeithLo/Desktop/ucdsolarcar/C:\\Users\\ck\\AndroidStudioProjects\\ucdsolarcar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_launcher.png",
+        "source": "/Users/KeithLo/Desktop/ucdsolarcar/C:\\Users\\ck\\AndroidStudioProjects\\ucdsolarcar\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "/Users/KeithLo/Desktop/ucdsolarcar/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/ic_launcher.png",
+        "source": "/Users/KeithLo/Desktop/ucdsolarcar/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    }
+]
